@@ -5,9 +5,10 @@ The extra work here is that I created a program that can virtually find the unio
 
 
 
-**Why did you choose it (i.e. in what area did you feel deficient and how did this work help improve your understanding) You can point to specific homeworks or problem types on exams.**
+**Why did you choose it (i.e. in what area did you feel deficient and how did this work help improve your understanding) You can point to specific homework or problem types on exams.**
 
-I chose this because
+The choice to focus on this work was to strengthen my understanding of time complexity and to bridge the gap between theoretical computational models (like DTMs and NTMs) and their implementations in code. Here’s a breakdown of why this was essential and how it addressed specific areas where I felt deficient. Time complexity is a foundational concept in computer science, but I often found myself struggling to analyze algorithms systematically to determine their time complexity, understand the implications of time complexity in the real world, and how to relate the theoretical bounds (like P vs. NP problems) to problems I encountered in homework and exams. This code snippet allowed me to experience analyzing the time complexity through the code of the machines we used in class. For example, we have been creating NTMS and DTMS practically all semester, but it is hard to see from a bunch of circles and arrows where the time complexity comes from. This project allowed me to translate what we have been doing in class into code which allowed me to see the time complexity in a more visually appealing way.
+
 
 
 **What files are what?**
