@@ -3,7 +3,12 @@
 
 The extra work here is that I created a program that can virtually find the union between any two strings. I also showed how we can exercise the libraries of python to help us in Theory of Computing. 
 
+
+
 **Why did you choose it (i.e. in what area did you feel deficient and how did this work help improve your understanding) You can point to specific homeworks or problem types on exams.**
+
+I chose this because
+
 
 **What files are what?**
 
